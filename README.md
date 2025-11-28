@@ -1,9 +1,9 @@
 # Node.js Launcher Code Examples
 
-add appSettings.json in .\config folder
-npm i
-cd .\quick_acg\
-npm start
+- add appSettings.json in .\config folder
+- npm i
+- cd .\quick_acg\
+- npm start
 
 
 >
